@@ -1,0 +1,68 @@
+.art {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: red;
+}
+
+.wrap_news {
+    display: flex;
+    justify-content: space-around;
+}
+
+.art_news {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: yellow;
+}
+
+.art_img {
+    display: flex;
+    width: 200px;
+    height: 146px;
+}
+
+.movies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: yellow;
+}
+
+.movies_img {
+    display: flex;
+    width: 200px;
+    height: 140px;
+}
+
+.fitness_news {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: yellow;
+}
+
+.fitness_img {
+    display: flex;
+    width: 200px;
+    height: 133px;
+}
+
+.food_news {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: yellow;
+}
+
+.food_img {
+    display: flex;
+    width: 200px;
+    height: 133px;
+}

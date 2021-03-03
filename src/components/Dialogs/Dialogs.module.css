@@ -1,0 +1,38 @@
+.dialogs {
+display: grid;
+grid-template-columns: 2fr 2fr 8fr;
+    grid-gap: 2vw;
+}
+
+.dialogsItems .dialog {
+margin: 50px;
+color: white;
+
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+
+.messages {
+padding: 10px;
+
+}
+
+.messages .message {
+    color: white;
+    padding-bottom: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.textar {
+    border-radius: 10px;
+}
+
+.add_post {
+    border-radius: 10px;
+}
+
